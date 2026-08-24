@@ -250,8 +250,8 @@
         buttonHref={"https://snail-ide.js.org/editor.html"}
     />
     <Alert
-        onlyShowID={"downtime:_3"}
-        text={"We are going to do testing on the servers. Please do not upload any projects yet, as they might get lost."}
+        onlyShowID={"downtime:_4"}
+        text={"Our servers won't be restored anytime soon, as the person who ran them stepped down a bit ago, and development has died down."}
         textBreakup={true}
         backColor={"red"}
         textColor={"white"}
